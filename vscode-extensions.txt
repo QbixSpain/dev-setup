@@ -1,0 +1,12 @@
+twxs.cmake
+ms-vscode.cmake-tools
+ms-vscode.cpptools
+ms-vscode.cpptools-extension-pack
+ms-vscode.cpptools-themes
+ZixuanWang.linkerscript
+tal7aouy.icons
+jebbs.plantuml
+gruntfuggly.todo-tree
+sanaajani.taskrunnercode
+charliermarsh.ruff
+pomdtr.excalidraw-editor
