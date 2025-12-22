@@ -319,8 +319,8 @@ curl -Ls https://astral.sh/uv/install.sh | sh
 echo "🔧 Installing gcc-arm-none-eabi..."
 sudo $APT install -y gcc-arm-none-eabi
 
-echo "🔧 Installing cmake..."
-sudo $APT install -y cmake
+# CMake from Kitware repo
+curl -sSfL https://raw.githubusercontent.com/QbixSpain/dev-setup/main/setup-cmake.sh | bash
 
 echo "🔧 Installing Ninja build system..."
 sudo $APT install -y ninja-build
